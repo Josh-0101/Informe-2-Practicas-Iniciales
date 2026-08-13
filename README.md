@@ -1,20 +1,25 @@
 # Informe-2-Practicas-Iniciales
-# Redes Físicas y Virtuales
+
 
 ## Link de Video de Red Física y Virtual
 
+https://youtu.be/FeUltgPl1xk
+
 ## Link Instalación de Ubuntu
 
+https://youtu.be/ZN3gMsLxRP0
+
 ## Recursos
+
 ## Link Ubuntu 26.04 LTZ
 
 https://ubuntu.com/download/desktop
 
-## Link D VirtualBox
+## Link de VirtualBox
 
 https://www.virtualbox.org/wiki/Downloads
 
-## Comandos:
+## Comandos
 
 - certutil -hashfile ubuntu-26.04-desktop-amd64.iso SHA256
 
