@@ -11,7 +11,7 @@ https://youtu.be/ZN3gMsLxRP0
 
 ## Recursos
 
-## Link Ubuntu 26.04 LTZ
+## Link Ubuntu 26.04 LTs
 
 https://ubuntu.com/download/desktop
 
