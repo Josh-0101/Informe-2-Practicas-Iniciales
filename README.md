@@ -26,7 +26,9 @@ https://www.virtualbox.org/wiki/Downloads
 - lsb_release -a
 
 - sudo apt upgrade
-
+  
+- sudo apt update
+  
 - ip addr
 
 - ping 8.8.8.8
